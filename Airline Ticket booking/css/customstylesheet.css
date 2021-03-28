@@ -1,0 +1,21 @@
+﻿body{
+    margin: 25px;
+    display: block;
+}
+.footerlinks {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+.footerlinks:hover{
+    color:#ffd800;
+}
+#footer1 {
+    position: fixed;
+    bottom: 0;
+    background: #762b00;
+}
+#footer2 {
+    position: fixed;
+    background: #531f00;
+    bottom: 0;
+}
